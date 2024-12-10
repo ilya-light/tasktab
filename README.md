@@ -3,5 +3,5 @@ TODO list in C
 
 # Build and run
 
-Clone this repository
-Execute run.sh
+1. Clone this repository
+2. Execute run.sh
