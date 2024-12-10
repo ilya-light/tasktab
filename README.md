@@ -1,2 +1,7 @@
 # tasktab
-List with tasks in C
+TODO list in C
+
+# Build and run
+
+Clone this repository
+Execute run.sh
